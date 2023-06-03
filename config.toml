@@ -2,11 +2,13 @@ baseURL = 'http://leonardobetti.github.io/blog/'
 languageCode = 'en-uk'
 title = 'Leonardo Betti'
 theme = "PaperMod"
-disableThemeToggle = true
+[params]
+defaultTheme = "light"
+disableThemeToggle = "true"
 
 [params.homeInfoParams]
 Title = "Product Designer based in London UK"
-Content = "Currently working as Product Designer for FSB Tech. I am a Digital Product Designer specialising in user experience design, brand identity and design systems. I research users, build prototypes, solve problems & create finished visuals. Additionally, I am an avid chess player on lichess.org and have a keen interest in Tech and Design tools such as Figma, Linux and Bitcoin. "
+Content = "Currently working as a Product Designer for [FSB Tech](http://fsbtech.com). My focus is on designing digital products, with a specialization in creating great user experiences, developing brand identities, and building design systems. Additionally, I am an avid chess player on [Lichess](https://lichess.org) and have a keen interest in tech and design tools such as [Figma](https://www.figma.com), [Penpot](https://www.penpot.app), [PGP](https://www.openpgp.org), [Linux](https://en.wikipedia.org/wiki/Linux), and [Bitcoin](https://bitcoin.org)."
 
 [[params.socialIcons]]
 name = "linkedin"
