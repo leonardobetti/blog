@@ -6,14 +6,24 @@
     <description>Recent content on Leonardo Betti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 02 Jun 2023 12:02:14 +0100</lastBuildDate><atom:link href="http://leonardobetti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 19:20:26 +0100</lastBuildDate><atom:link href="http://leonardobetti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSB Tech: Sportsbook Template</title>
+      <link>http://leonardobetti.github.io/blog/posts/fsbtech/</link>
+      <pubDate>Tue, 06 Jun 2023 19:20:26 +0100</pubDate>
+      
+      <guid>http://leonardobetti.github.io/blog/posts/fsbtech/</guid>
+      <description>Context: FSB Tech is a B2B provider that offers a platform to build and customise betting products, offering a different range of products such as casinos, iGaming, retail and sportsbook.
+As a Product Designer at FSB Tech, my main responsibilities involved designing the UI screens, and refining and expanding the existing design system. I worked closely with cross-functional teams to ensure that the design was in line with the overall product strategy.</description>
+    </item>
+    
     <item>
       <title>Spears 500</title>
       <link>http://leonardobetti.github.io/blog/posts/spears500/</link>
       <pubDate>Fri, 02 Jun 2023 12:02:14 +0100</pubDate>
       
       <guid>http://leonardobetti.github.io/blog/posts/spears500/</guid>
-      <description>Context Spear&amp;rsquo;s magazine is a respected media brand that comprehensively covers global wealth, business, and culture. It is a reliable source of information for the affluent financial services sector, including bankers, lawyers, and family offices who advise wealthy clients. It is held in high esteem by the ultra-high-net-worth (UHNW) community. Since its inception in 2006, Spear&amp;rsquo;s has established itself as a leading authority on wealth management in the UK and Europe.</description>
+      <description>Context: Spear&amp;rsquo;s magazine is a respected media brand that comprehensively covers global wealth, business, and culture. It is a reliable source of information for the affluent financial services sector, including bankers, lawyers, and family offices who advise wealthy clients. It is held in high esteem by the ultra-high-net-worth (UHNW) community. Since its inception in 2006, Spear&amp;rsquo;s has established itself as a leading authority on wealth management in the UK and Europe.</description>
     </item>
     
   </channel>

@@ -9,19 +9,22 @@ ShowBreadCrumbs: true
 ![](https://cdn.dribbble.com/userupload/5194541/file/original-99d5597ef2949b53b9df3c4523d5a544.png)
 
 
-### Context
+### Context:
 Spear's magazine is a respected media brand that comprehensively covers global wealth, business, and culture. It is a reliable source of information for the affluent financial services sector, including bankers, lawyers, and family offices who advise wealthy clients. It is held in high esteem by the ultra-high-net-worth (UHNW) community.
-Since its inception in 2006, Spear's has established itself as a leading authority on wealth management in the UK and Europe. The magazine is also known for its incisive commentary on the latest arts, business, and lifestyle trends.
+Since its inception in 2006, Spear's has established itself as a leading authority on wealth management in the UK and Europe. The magazine is also known for its incisive commentary on the latest arts, business, and lifestyle trends. 
 
-### Challenge
+
+### Challenge:
 Spear's has long relied on its print magazine to attract new readers and generate advertising revenue for its digital platform. However, with limited potential for lead generation and ongoing investment, the magazine's traditional mechanics needed to be revised to sustain long-term growth.
 In response to these challenges, Spear's team requested innovative strategies to expand its reach, attract new advisors, and increase brand awareness. It was time to get creative and develop a solution to increase website traffic and social media engagement.  
+
 
 ### Brainstorm Session
 We gathered with the Growth team to brainstorm ideas for creating a new web product that would attract new readers to Spear's in a more organic way.
 After a productive session, the Growth and Product Design departments evaluated the ideas using the [**ICE**](https://growthmethod.com/ice-framework/http://) framework. This decision-making tool assesses the impact, confidence, and ease of implementation. The proposal with the highest score was selected for further development.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678293577056/7d9a5c5f-57fa-43cf-97b0-a6a2b091e163.png)
+
 
 ### Goals and Metrics
 We kick-off by defining some success metrics, user stories, and goals for this project. With these parameters in place, we delved into crafting potential user journeys tailored for both Spear's readers and also for financial advisors who were unfamiliar with our brand.
@@ -32,6 +35,7 @@ We kick-off by defining some success metrics, user stories, and goals for this p
 
 ### Proposal
 Build a new find-an-adviser tool which is the website [**spears500.com**](http://spears500.com). The website is a side project of Spear's magazine. The project allows UHNW community to search and filter advisers according to a range of attributes such as the adviser’s expertise, location, the clients they serve and the types of advice they offer. The proposal also enables the advisers to put themselves in front of the people most likely to require their services.  
+
 
 ### Process
 
@@ -47,6 +51,7 @@ We build Spear's 500 Design System using [Atomic Design](https://atomicdesign.br
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678364187441/2fd1b7bf-76ef-4bc1-a9a1-0b3e4a135066.png)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678364334650/a8cce624-7570-436c-9970-7f7357dfc8b2.png)
+
 
 ### UI screens
 
